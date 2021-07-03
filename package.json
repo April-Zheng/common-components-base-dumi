@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "dumi-demo",
+  "name": "common-components-base-dumi",
   "version": "1.0.0",
   "scripts": {
     "start": "dumi dev",
