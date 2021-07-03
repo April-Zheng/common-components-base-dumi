@@ -1,11 +1,10 @@
-
 ## Foo
 
 Demo:
 
 ```tsx
 import React from 'react';
-import { Foo } from 'dumi-demo';
+import { Foo } from 'common-components-base-dumi';
 
 export default () => <Foo title="First Demo" />;
 ```
